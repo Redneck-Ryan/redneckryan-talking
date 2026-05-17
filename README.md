@@ -14,10 +14,10 @@ Download the resource and place the redneckryan-talking folder into your server'
 
 Open your server.cfg file.
 
-Add the following line below your preferred voice resource (to ensure it initializes correctly after audio routing is set up):
-
-Code snippet
+Add the following line below your preferred voice resource 
 ensure redneckryan-talking
+
+
 🙋‍♂️ Support & Feedback
 If you run into issues, want to suggest features, or just want to see what else is cooking, join the community:
 
