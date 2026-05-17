@@ -1,4 +1,6 @@
-📂 redneckryan-talking
+#📂 redneckryan-talking
+
+
 An OCRP-style "Talking" UI script for FiveM that displays a list of players currently speaking on your screen.
 
 ⚙️ Features
